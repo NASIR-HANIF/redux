@@ -1,0 +1,18 @@
+[
+    {
+        "email" : "n@gmail.com",
+        "mobile" : 123456
+    },
+    {
+        "email" : "a@gmail.com",
+        "mobile" : 712627
+    },
+    {
+        "email" : "b@gmail.com",
+        "mobile" : 987654
+    },
+    {
+        "email" : "c@gmail.com",
+        "mobile" : 1145555
+    }
+]
